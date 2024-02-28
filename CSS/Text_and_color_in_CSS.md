@@ -67,7 +67,7 @@ Think of a rainbow that has been turned into a full circle. This represents the 
 <br>
 this circle, from 0 degrees to 360 degrees. 0 is red, 120 is green and 240 is blue.
 
-<img src='HSL_1.png' width='600' height='500'/>
+<img src='HSL_1.png' width='600' height='600'/>
 
 Saturation is the distance from the center of the circle to its edge. The saturation value is represented by a percentage
 <br>
@@ -83,7 +83,7 @@ the cylinder to the top. Again, lightness is represented by a percentage from 0%
 <br>
 cylinder and 100% is its top. In other words, 0% will mean that the color is more black and 100% is white.
 
-<img src='HSL_2.png' width='600' height='600'/>
+<img src='HSL_2.png' width='600' height='500'/>
 
 In CSS, you use the `hsl` keyword to define a color with HSL.
 
