@@ -1,6 +1,6 @@
 # Lab Instructions: Styling a page
 
-In this exercise you will you will practice applying CSS rules to HTML elements.<br><br>
+In this exercise you will practice applying CSS rules to HTML elements.<br><br>
 
 > ### **Tips: Before you Begin**
 > #### **To view your code and instructions side-by-side**, select the following in your VSCode toolbar:
