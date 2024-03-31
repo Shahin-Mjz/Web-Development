@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.240 --> 00:00:05.040
+As a developer, you were tasked to design
+a website for the Little Lemon Restaurant.
+
+2
+00:00:05.040 --> 00:00:08.820
+One of the main requirements is that
+the website easily adapts to different
+
+3
+00:00:08.820 --> 00:00:11.340
+devices, platforms and screen sizes.
+
+4
+00:00:11.340 --> 00:00:15.140
+Does this mean that you have to
+redesign the website for each device?
+
+5
+00:00:15.140 --> 00:00:16.720
+No, relax.
+
+6
+00:00:16.720 --> 00:00:19.990
+You do not have to redesign
+your website for each device.
+
+7
+00:00:19.990 --> 00:00:23.852
+In this video, I'll introduce you
+to Bootstrap CSS class in fixes and
+
+8
+00:00:23.852 --> 00:00:24.580
+modifiers.
+
+9
+00:00:24.580 --> 00:00:28.440
+And you will learn how you can
+use them to save your time.
+
+10
+00:00:28.440 --> 00:00:30.140
+Let's get started.
+
+11
+00:00:30.140 --> 00:00:34.769
+Bootstrap has quite a large CSS library
+built by Bootstraps developers using
+
+12
+00:00:34.769 --> 00:00:36.273
+thousands of use cases.
+
+13
+00:00:36.273 --> 00:00:39.069
+How it achieves this is
+through CSS classes and
+
+14
+00:00:39.069 --> 00:00:42.840
+their variations through in fixes and
+modifiers.
+
+15
+00:00:42.840 --> 00:00:47.460
+It is important that you as a developer,
+understand in fixes and modifiers and
+
+16
+00:00:47.460 --> 00:00:49.870
+you will explore each of these terms.
+
+17
+00:00:49.870 --> 00:00:55.001
+You will use class in fixes for responsive
+breakpoints in the Bootstrap grid system,
+
+18
+00:00:55.001 --> 00:00:58.640
+let's go ahead and
+cover how in fixes are used.
+
+19
+00:00:58.640 --> 00:01:02.102
+You already know that breakpoints
+are the triggers in bootstrap for
+
+20
+00:01:02.102 --> 00:01:05.840
+how your layout changes across device or
+viewpoint sizes.
+
+21
+00:01:05.840 --> 00:01:09.198
+Here are the responsive breakpoints
+available in bootstrap and
+
+22
+00:01:09.198 --> 00:01:10.075
+how we use them.
+
+23
+00:01:10.075 --> 00:01:12.640
+Know that each has a specific name.
+
+24
+00:01:12.640 --> 00:01:17.240
+Extra small is for
+screens less than 576 pixels wide.
+
+25
+00:01:17.240 --> 00:01:22.060
+Small is for screens greater than or
+equal to 576 pixels wide.
+
+26
+00:01:22.060 --> 00:01:25.817
+In bootstrap CSS rules,
+this is abbreviated as SM.
+
+27
+00:01:25.817 --> 00:01:31.040
+Medium is for screens greater than or
+equal to 768 pixels wide.
+
+28
+00:01:31.040 --> 00:01:34.728
+In Bootstrap CSS rules,
+this is abbreviated as MD.
+
+29
+00:01:34.728 --> 00:01:39.540
+Large is for screens greater than or
+equal to 992 pixels wide.
+
+30
+00:01:39.540 --> 00:01:43.145
+In Bootstrap CSS rules,
+this is abbreviated as LG.
+
+31
+00:01:43.145 --> 00:01:48.580
+Extra large is for screens greater than or
+equal to 1200 pixels wide.
+
+32
+00:01:48.580 --> 00:01:51.761
+In bootstrap CSS rules
+this is abbreviated as XL.
+
+33
+00:01:51.761 --> 00:01:56.995
+Extra extra large is the screen is greater
+than or equal to 1400 pixels wide.
+
+34
+00:01:56.995 --> 00:02:01.140
+In bootstrap CSS rules,
+this is abbreviated as XXL.
+
+35
+00:02:01.140 --> 00:02:04.192
+Did you notice that there is no
+class in fix or dimension for
+
+36
+00:02:04.192 --> 00:02:05.710
+extra small on the list?
+
+37
+00:02:05.710 --> 00:02:09.915
+This is because extra small is the default
+breakpoint in Bootstrap CSS rules.
+
+38
+00:02:09.915 --> 00:02:11.499
+As bootstrap is mobile first.
+
+39
+00:02:11.499 --> 00:02:13.069
+We use the abbreviations for
+
+40
+00:02:13.069 --> 00:02:17.160
+these breakpoints as in fixes in
+the CSS rules for the grid system.
+
+41
+00:02:17.160 --> 00:02:21.640
+This basically means you have to insert
+the abbreviation into the CSS class name.
+
+42
+00:02:21.640 --> 00:02:23.840
+I will show you how to use this shortly.
+
+43
+00:02:23.840 --> 00:02:28.147
+Bootstrap components provide a pre built
+set of reusable UI styles and elements for
+
+44
+00:02:28.147 --> 00:02:29.940
+your web applications.
+
+45
+00:02:29.940 --> 00:02:33.778
+Let's now learn how to use modifiers
+through an example that uses
+
+46
+00:02:33.778 --> 00:02:34.907
+an alert element.
+
+47
+00:02:34.907 --> 00:02:39.387
+I can have an html file where I set an
+alert primary CSS class that is applied to
+
+48
+00:02:39.387 --> 00:02:40.232
+the element.
+
+49
+00:02:40.232 --> 00:02:45.440
+Alert primary displays the alert using
+Bootstraps primary color which is blue.
+
+50
+00:02:45.440 --> 00:02:48.008
+The dash primary part of
+the class is the modifier.
+
+51
+00:02:48.008 --> 00:02:50.760
+If you want to change this to red for
+example, for
+
+52
+00:02:50.760 --> 00:02:54.240
+an error message you will
+use the danger modifier.
+
+53
+00:02:54.240 --> 00:02:57.440
+Here is a list of modifiers
+available in Bootstrap.
+
+54
+00:02:57.440 --> 00:03:03.830
+Primary, secondary, success, info,
+warning, danger, light, dark.
+
+55
+00:03:03.830 --> 00:03:08.516
+Alerts are often used to show information
+that needs immediate attention from users
+
+56
+00:03:08.516 --> 00:03:12.340
+such as warnings, errors or
+confirmation messages.
+
+57
+00:03:12.340 --> 00:03:16.028
+Bootstrap provides an easy way to
+create predefined alert messages and
+
+58
+00:03:16.028 --> 00:03:19.040
+it also has different types of alerts.
+
+59
+00:03:19.040 --> 00:03:22.951
+The difference between the alerts is just
+the color used to display the predefined
+
+60
+00:03:22.951 --> 00:03:24.240
+alert message.
+
+61
+00:03:24.240 --> 00:03:25.095
+For example,
+
+62
+00:03:25.095 --> 00:03:30.740
+the primary alert displays the alert using
+bootstraps primary color which is blue.
+
+63
+00:03:30.740 --> 00:03:34.640
+On the other hand, the danger
+alert displays the alert in red.
+
+64
+00:03:34.640 --> 00:03:38.818
+Now, let's turn our attention
+to how this works in code.
+
+65
+00:03:38.818 --> 00:03:44.604
+In this html file, I have a six columns
+CSS class applied to a div element.
+
+66
+00:03:44.604 --> 00:03:48.843
+In this example, I want to change
+this rule for large screens.
+
+67
+00:03:48.843 --> 00:03:56.220
+To do this, I in fix LG into the col CSS
+class, by adding col dash LG dash six.
+
+68
+00:03:56.220 --> 00:04:00.929
+Bootstrap components provide a pre built
+set of reusable UI styles and elements for
+
+69
+00:04:00.929 --> 00:04:02.840
+your web applications.
+
+70
+00:04:02.840 --> 00:04:05.940
+For example, I can add an alert component.
+
+71
+00:04:05.940 --> 00:04:10.333
+I do this by adding an alert CSS class
+followed by the contextual class,
+
+72
+00:04:10.333 --> 00:04:12.330
+alert dash primary.
+
+73
+00:04:12.330 --> 00:04:15.304
+Now I have to identify
+the function of the alert.
+
+74
+00:04:15.304 --> 00:04:19.428
+To do this, I add a roll CSS class
+directly after the contextual class,
+
+75
+00:04:19.428 --> 00:04:21.511
+alert dash primary and type alert.
+
+76
+00:04:21.511 --> 00:04:26.640
+On the next line, I type the name
+that must be displayed on the alert.
+
+77
+00:04:26.640 --> 00:04:27.236
+A message.
+
+78
+00:04:27.236 --> 00:04:30.603
+Alerts are useful for
+displaying information, warnings or
+
+79
+00:04:30.603 --> 00:04:32.440
+error messages to users.
+
+80
+00:04:32.440 --> 00:04:33.705
+The contextual class,
+
+81
+00:04:33.705 --> 00:04:38.335
+alert primary will display the alert using
+Bootstraps primary color, which is blue.
+
+82
+00:04:38.335 --> 00:04:41.640
+The primary part of
+the class is the modifier.
+
+83
+00:04:41.640 --> 00:04:45.557
+If I want to change the color to red,
+for example, for an error message,
+
+84
+00:04:45.557 --> 00:04:47.303
+I will use the danger modifier.
+
+85
+00:04:47.303 --> 00:04:52.340
+To change the color to red, I simply
+replace the modifier Primary with danger.
+
+86
+00:04:52.340 --> 00:04:55.728
+Now you have learned about CSS
+class in fixes and modifiers and
+
+87
+00:04:55.728 --> 00:04:57.761
+how you can use them to save you time.

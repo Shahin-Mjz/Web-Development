@@ -1,0 +1,61 @@
+As a developer, you were tasked to design
+a website for the Little Lemon Restaurant. One of the main requirements is that
+the website easily adapts to different devices, platforms and screen sizes. Does this mean that you have to
+redesign the website for each device? No, relax. You do not have to redesign
+your website for each device. In this video, I'll introduce you
+to Bootstrap CSS class in fixes and modifiers. And you will learn how you can
+use them to save your time. Let's get started. Bootstrap has quite a large CSS library
+built by Bootstraps developers using thousands of use cases. How it achieves this is
+through CSS classes and their variations through in fixes and
+modifiers. It is important that you as a developer,
+understand in fixes and modifiers and you will explore each of these terms. You will use class in fixes for responsive
+breakpoints in the Bootstrap grid system, let's go ahead and
+cover how in fixes are used. You already know that breakpoints
+are the triggers in bootstrap for how your layout changes across device or
+viewpoint sizes. Here are the responsive breakpoints
+available in bootstrap and how we use them. Know that each has a specific name. Extra small is for
+screens less than 576 pixels wide. Small is for screens greater than or
+equal to 576 pixels wide. In bootstrap CSS rules,
+this is abbreviated as SM. Medium is for screens greater than or
+equal to 768 pixels wide. In Bootstrap CSS rules,
+this is abbreviated as MD. Large is for screens greater than or
+equal to 992 pixels wide. In Bootstrap CSS rules,
+this is abbreviated as LG. Extra large is for screens greater than or
+equal to 1200 pixels wide. In bootstrap CSS rules
+this is abbreviated as XL. Extra extra large is the screen is greater
+than or equal to 1400 pixels wide. In bootstrap CSS rules,
+this is abbreviated as XXL. Did you notice that there is no
+class in fix or dimension for extra small on the list? This is because extra small is the default
+breakpoint in Bootstrap CSS rules. As bootstrap is mobile first. We use the abbreviations for these breakpoints as in fixes in
+the CSS rules for the grid system. This basically means you have to insert
+the abbreviation into the CSS class name. I will show you how to use this shortly. Bootstrap components provide a pre built
+set of reusable UI styles and elements for your web applications. Let's now learn how to use modifiers
+through an example that uses an alert element. I can have an html file where I set an
+alert primary CSS class that is applied to the element. Alert primary displays the alert using
+Bootstraps primary color which is blue. The dash primary part of
+the class is the modifier. If you want to change this to red for
+example, for an error message you will
+use the danger modifier. Here is a list of modifiers
+available in Bootstrap. Primary, secondary, success, info,
+warning, danger, light, dark. Alerts are often used to show information
+that needs immediate attention from users such as warnings, errors or
+confirmation messages. Bootstrap provides an easy way to
+create predefined alert messages and it also has different types of alerts. The difference between the alerts is just
+the color used to display the predefined alert message. For example, the primary alert displays the alert using
+bootstraps primary color which is blue. On the other hand, the danger
+alert displays the alert in red. Now, let's turn our attention
+to how this works in code. In this html file, I have a six columns
+CSS class applied to a div element. In this example, I want to change
+this rule for large screens. To do this, I in fix LG into the col CSS
+class, by adding col dash LG dash six. Bootstrap components provide a pre built
+set of reusable UI styles and elements for your web applications. For example, I can add an alert component. I do this by adding an alert CSS class
+followed by the contextual class, alert dash primary. Now I have to identify
+the function of the alert. To do this, I add a roll CSS class
+directly after the contextual class, alert dash primary and type alert. On the next line, I type the name
+that must be displayed on the alert. A message. Alerts are useful for
+displaying information, warnings or error messages to users. The contextual class, alert primary will display the alert using
+Bootstraps primary color, which is blue. The primary part of
+the class is the modifier. If I want to change the color to red,
+for example, for an error message, I will use the danger modifier. To change the color to red, I simply
+replace the modifier Primary with danger. Now you have learned about CSS
+class in fixes and modifiers and how you can use them to save you time.
