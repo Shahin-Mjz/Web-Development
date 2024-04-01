@@ -275,5 +275,5 @@ In this exercise, you will practice building a webpage using the Bootstrap Grid.
 
 # Video Resources:
 
-- [Using Bootstrap styles](https://www.coursera.org/learn/introduction-to-back-end-development/lecture/ETatJ/using-bootstrap-styles)
-- [Bootstrap grid](https://www.coursera.org/learn/introduction-to-back-end-development/lecture/JcTk4/bootstrap-grid)
+- [Using Bootstrap styles  @Coursera](https://www.coursera.org/learn/introduction-to-back-end-development/lecture/ETatJ/using-bootstrap-styles)
+- [Bootstrap grid @Coursera](https://www.coursera.org/learn/introduction-to-back-end-development/lecture/JcTk4/bootstrap-grid)
