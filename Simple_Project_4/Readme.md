@@ -93,9 +93,12 @@ In this exercise, you will practice adding Bootstrap components to a webpage.
 
 **Step 20:** Verify that the alert is displayed on the web page.
 
-**Step 21:** Verify at the `new` badge is displayed on the Falafel header.
+**Step 21:** Verify that the `new` badge is displayed on the Falafel header.
 
 **Step 22:** Verify that the Order Online button is displayed.
+
+
+Your web page should look similar to the screenshot below.
 
 <img src='web_page.png'>
 
