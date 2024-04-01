@@ -1,4 +1,6 @@
-# Instructions
+# Working with Bootstrap Grid
+
+## Instructions
 
 **Introduction** <br>
 
@@ -273,7 +275,11 @@ In this exercise, you will practice building a webpage using the Bootstrap Grid.
 
 <br><br>
 
-# Video Resources:
+**Step 17:** Open the `index.html` file in a web browser and then verify that the web page displays the Little Lemon menu in two columns. Your web page should look similar to the screenshot below.
+
+<img src='web_page.png'>
+
+## Video Resources:
 
 - [Using Bootstrap styles  @Coursera](https://www.coursera.org/learn/introduction-to-back-end-development/lecture/ETatJ/using-bootstrap-styles)
 - [Bootstrap grid @Coursera](https://www.coursera.org/learn/introduction-to-back-end-development/lecture/JcTk4/bootstrap-grid)
