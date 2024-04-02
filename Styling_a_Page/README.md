@@ -1,4 +1,4 @@
-# Lab Instructions: Styling a page
+# Lab Instructions: Styling a Page
 
 In this exercise you will practice applying CSS rules to HTML elements.<br><br>
 

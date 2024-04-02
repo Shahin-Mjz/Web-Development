@@ -1,4 +1,4 @@
-# Lab Instructions: Create and style a webpage
+# Lab Instructions: Create and Style a Webpage
 
 In this exercise you will practice building your webpage using HTML and CSS.<br><br>
 
