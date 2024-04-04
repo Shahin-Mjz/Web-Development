@@ -1,1 +1,49 @@
-
+I'm sure you've created
+something from scratch before. I bet you realize how challenging it
+can be as opposed to using pre made components. Think about the effort that goes into
+building a brand new house versus the convenience of constructing a modular
+building with pre made components that you just need to put together. React is focused on
+working with components, which makes it simple to build functional
+user interfaces on web and mobile. And, since React is one of the most
+popular JavaScript libraries, it's important that you can
+explain what its purposes and describe how its components work together. Available since 2013 React is an open
+source library with a community of core contributors and
+companies that maintain it. Developers use React to develop
+single page applications and you can also develop mobile
+applications with React native. When you develop an app, you can choose to
+use React to develop the user interface. But building an application
+requires more than that. You must also consider the navigation and how the app will request
+data from a web server. Therefore React is used in conjunction
+with other JavaScript libraries during development. But what makes React so useful is that it allows developers to
+write less code to create functionality. This in turn makes it easier to
+maintain code in the long term and simplifies testing. Because it is so
+central to front end development, there are many tools that
+you can use with the React. These tools can help you understand
+how React is running your code and how you can improve performance. Now that you have a better idea of what
+React is let me tell you more about Reacts components. The key concept behind
+React is that it allows you to define components that you can
+combine to build a web application. A component is basically a small piece of
+user interface, such as a music player or photo gallery. This component model allows you to do
+several things, such as developing and testing parts of their application in
+isolation and it also allows you to reuse components across multiple sections
+of the application as well. Let's explore an example. Most Web applications have
+user profiles with pictures. Normally several parts of the application
+use a version of this profile picture, such as in the navigation
+bar beside the user's name. It could also show in a user search result
+along with several other user pictures and the user picture might also display
+an instant message notifications. Instead of programming the logic for every instance of a user profile picture
+React allows you to create a user icon component that displays a version of
+a profile picture every time it is used. You can then reuse this component
+throughout the application. Can you imagine how it will
+improve your efficiency. There are in fact many open source
+libraries that provide pre made components for React projects. For example, if you want to add
+a video player to your website, there's a React component library for
+that. Well, maybe you want to embed a map. There's a React component library for
+that too. As the React community grows bigger,
+it continues to add new features and improvements continuously. Annual React conferences,
+encourage community sharing and introduce upcoming
+developments in the library. I hope that in the near future you
+might be joining the React community as an active member and as a future React community member you
+now know the React libraries purpose and how its components work together to make
+life easier for front end developers. After all, why build something from scratch if
+the components are already there to use?

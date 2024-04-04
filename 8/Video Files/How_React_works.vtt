@@ -1,0 +1,180 @@
+WEBVTT
+
+1
+00:00:00.440 --> 00:00:01.746
+By now you've learned,
+
+2
+00:00:01.746 --> 00:00:05.301
+that you can build components in
+React to develop user interfaces.
+
+3
+00:00:05.301 --> 00:00:10.040
+But how do React components turn into
+the elements on the web page that you use.
+
+4
+00:00:10.040 --> 00:00:14.504
+Remember when your web browser receives
+an HTML page, it constructs a DOM,
+
+5
+00:00:14.504 --> 00:00:16.239
+to represent it.
+
+6
+00:00:16.239 --> 00:00:18.506
+But updating the DOM is
+considered expensive,
+
+7
+00:00:18.506 --> 00:00:22.340
+because it is very time intensive for
+the web browser to do so.
+
+8
+00:00:22.340 --> 00:00:27.440
+Every time the browser DOM is updated, it
+causes the browser to re compute the page.
+
+9
+00:00:27.440 --> 00:00:31.140
+Yet many big and popular websites
+still load in no time today.
+
+10
+00:00:31.140 --> 00:00:31.943
+How can it be?
+
+11
+00:00:31.943 --> 00:00:35.263
+In this video, I will explain
+how React solves the problem,
+
+12
+00:00:35.263 --> 00:00:37.161
+by computing its own virtual DOM.
+
+13
+00:00:38.340 --> 00:00:41.485
+Let's start with how React components
+relate to the website displayed in
+
+14
+00:00:41.485 --> 00:00:42.940
+your browser.
+
+15
+00:00:42.940 --> 00:00:44.162
+A reality component,
+
+16
+00:00:44.162 --> 00:00:48.546
+has a one to one relationship to an HTML
+element that is displayed on the webpage.
+
+17
+00:00:48.546 --> 00:00:53.640
+But how does React keep track of which
+HTML elements need to be updated.
+
+18
+00:00:53.640 --> 00:00:57.335
+This is where reacts virtual
+DOM comes into play.
+
+19
+00:00:57.335 --> 00:00:59.796
+When React builds out
+its tree of components,
+
+20
+00:00:59.796 --> 00:01:03.540
+it builds out its own dome in
+memory called the virtual DOM.
+
+21
+00:01:03.540 --> 00:01:07.906
+The virtual DOM is a representation of
+the browser DOM that is kept in memory.
+
+22
+00:01:07.906 --> 00:01:12.840
+React uses this virtual DOM to update
+the browser DOM, only when it needs to.
+
+23
+00:01:12.840 --> 00:01:17.040
+This ensures that your application is
+fast and responsive to user input.
+
+24
+00:01:17.040 --> 00:01:21.474
+Let me explain how it works, React
+checks to see if the HTML components in
+
+25
+00:01:21.474 --> 00:01:24.030
+the virtual DOM matches the browser DOM.
+
+26
+00:01:24.030 --> 00:01:27.940
+If a change is required,
+the browser dome is updated.
+
+27
+00:01:27.940 --> 00:01:31.040
+If nothing has changed,
+then no update is performed.
+
+28
+00:01:31.040 --> 00:01:33.640
+This process is called reconciliation.
+
+29
+00:01:33.640 --> 00:01:37.787
+Let's break down what happens when
+you update a component and React.
+
+30
+00:01:37.787 --> 00:01:40.440
+Firstly, the virtual DOM is updated.
+
+31
+00:01:40.440 --> 00:01:44.628
+Then React, compares the virtual DOM to
+the previous version of the virtual DOM,
+
+32
+00:01:44.628 --> 00:01:47.008
+and determines which
+elements have changed.
+
+33
+00:01:47.008 --> 00:01:51.333
+The changed elements, and only those
+elements are updated in the browser DOM.
+
+34
+00:01:51.333 --> 00:01:55.130
+Changes on the browser DOM,
+cause the displayed web page to change.
+
+35
+00:01:55.130 --> 00:01:58.381
+In this video, you have learned that,
+React constructs and
+
+36
+00:01:58.381 --> 00:01:59.664
+updates a virtual DOM.
+
+37
+00:01:59.664 --> 00:02:02.957
+So that the browser will only
+update certain HTML elements,
+
+38
+00:02:02.957 --> 00:02:05.161
+instead of recreating the entire page.

@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.240 --> 00:00:02.740
+I'm sure you've created
+something from scratch before.
+
+2
+00:00:02.740 --> 00:00:06.229
+I bet you realize how challenging it
+can be as opposed to using pre made
+
+3
+00:00:06.229 --> 00:00:07.440
+components.
+
+4
+00:00:07.440 --> 00:00:10.956
+Think about the effort that goes into
+building a brand new house versus
+
+5
+00:00:10.956 --> 00:00:15.247
+the convenience of constructing a modular
+building with pre made components that you
+
+6
+00:00:15.247 --> 00:00:16.633
+just need to put together.
+
+7
+00:00:16.633 --> 00:00:18.887
+React is focused on
+working with components,
+
+8
+00:00:18.887 --> 00:00:23.240
+which makes it simple to build functional
+user interfaces on web and mobile.
+
+9
+00:00:23.240 --> 00:00:27.118
+And, since React is one of the most
+popular JavaScript libraries,
+
+10
+00:00:27.118 --> 00:00:30.452
+it's important that you can
+explain what its purposes and
+
+11
+00:00:30.452 --> 00:00:33.050
+describe how its components work together.
+
+12
+00:00:33.050 --> 00:00:37.606
+Available since 2013 React is an open
+source library with a community of core
+
+13
+00:00:37.606 --> 00:00:40.290
+contributors and
+companies that maintain it.
+
+14
+00:00:40.290 --> 00:00:43.845
+Developers use React to develop
+single page applications and
+
+15
+00:00:43.845 --> 00:00:47.570
+you can also develop mobile
+applications with React native.
+
+16
+00:00:47.570 --> 00:00:52.100
+When you develop an app, you can choose to
+use React to develop the user interface.
+
+17
+00:00:52.100 --> 00:00:55.040
+But building an application
+requires more than that.
+
+18
+00:00:55.040 --> 00:00:57.146
+You must also consider the navigation and
+
+19
+00:00:57.146 --> 00:01:00.140
+how the app will request
+data from a web server.
+
+20
+00:01:00.140 --> 00:01:04.173
+Therefore React is used in conjunction
+with other JavaScript libraries during
+
+21
+00:01:04.173 --> 00:01:05.640
+development.
+
+22
+00:01:05.640 --> 00:01:06.908
+But what makes React so
+
+23
+00:01:06.908 --> 00:01:11.840
+useful is that it allows developers to
+write less code to create functionality.
+
+24
+00:01:11.840 --> 00:01:15.497
+This in turn makes it easier to
+maintain code in the long term and
+
+25
+00:01:15.497 --> 00:01:16.810
+simplifies testing.
+
+26
+00:01:16.810 --> 00:01:19.633
+Because it is so
+central to front end development,
+
+27
+00:01:19.633 --> 00:01:22.740
+there are many tools that
+you can use with the React.
+
+28
+00:01:22.740 --> 00:01:26.206
+These tools can help you understand
+how React is running your code and
+
+29
+00:01:26.206 --> 00:01:27.951
+how you can improve performance.
+
+30
+00:01:29.040 --> 00:01:33.265
+Now that you have a better idea of what
+React is let me tell you more about Reacts
+
+31
+00:01:33.265 --> 00:01:35.040
+components.
+
+32
+00:01:35.040 --> 00:01:37.627
+The key concept behind
+React is that it allows you
+
+33
+00:01:37.627 --> 00:01:42.340
+to define components that you can
+combine to build a web application.
+
+34
+00:01:42.340 --> 00:01:46.999
+A component is basically a small piece of
+user interface, such as a music player or
+
+35
+00:01:46.999 --> 00:01:48.440
+photo gallery.
+
+36
+00:01:48.440 --> 00:01:52.439
+This component model allows you to do
+several things, such as developing and
+
+37
+00:01:52.439 --> 00:01:56.500
+testing parts of their application in
+isolation and it also allows you to reuse
+
+38
+00:01:56.500 --> 00:02:00.940
+components across multiple sections
+of the application as well.
+
+39
+00:02:00.940 --> 00:02:03.040
+Let's explore an example.
+
+40
+00:02:03.040 --> 00:02:06.740
+Most Web applications have
+user profiles with pictures.
+
+41
+00:02:06.740 --> 00:02:10.708
+Normally several parts of the application
+use a version of this profile picture,
+
+42
+00:02:10.708 --> 00:02:13.570
+such as in the navigation
+bar beside the user's name.
+
+43
+00:02:13.570 --> 00:02:18.133
+It could also show in a user search result
+along with several other user pictures and
+
+44
+00:02:18.133 --> 00:02:22.580
+the user picture might also display
+an instant message notifications.
+
+45
+00:02:22.580 --> 00:02:24.518
+Instead of programming the logic for
+
+46
+00:02:24.518 --> 00:02:28.581
+every instance of a user profile picture
+React allows you to create a user icon
+
+47
+00:02:28.581 --> 00:02:33.140
+component that displays a version of
+a profile picture every time it is used.
+
+48
+00:02:33.140 --> 00:02:36.340
+You can then reuse this component
+throughout the application.
+
+49
+00:02:36.340 --> 00:02:39.440
+Can you imagine how it will
+improve your efficiency.
+
+50
+00:02:39.440 --> 00:02:43.288
+There are in fact many open source
+libraries that provide pre made components
+
+51
+00:02:43.288 --> 00:02:44.740
+for React projects.
+
+52
+00:02:44.740 --> 00:02:47.958
+For example, if you want to add
+a video player to your website,
+
+53
+00:02:47.958 --> 00:02:51.240
+there's a React component library for
+that.
+
+54
+00:02:51.240 --> 00:02:53.740
+Well, maybe you want to embed a map.
+
+55
+00:02:53.740 --> 00:02:55.861
+There's a React component library for
+that too.
+
+56
+00:02:57.240 --> 00:03:00.698
+As the React community grows bigger,
+it continues to add new features and
+
+57
+00:03:00.698 --> 00:03:02.840
+improvements continuously.
+
+58
+00:03:02.840 --> 00:03:05.859
+Annual React conferences,
+encourage community sharing and
+
+59
+00:03:05.859 --> 00:03:08.840
+introduce upcoming
+developments in the library.
+
+60
+00:03:08.840 --> 00:03:12.896
+I hope that in the near future you
+might be joining the React community as
+
+61
+00:03:12.896 --> 00:03:14.046
+an active member and
+
+62
+00:03:14.046 --> 00:03:18.510
+as a future React community member you
+now know the React libraries purpose and
+
+63
+00:03:18.510 --> 00:03:23.540
+how its components work together to make
+life easier for front end developers.
+
+64
+00:03:23.540 --> 00:03:24.167
+After all,
+
+65
+00:03:24.167 --> 00:03:28.251
+why build something from scratch if
+the components are already there to use?
