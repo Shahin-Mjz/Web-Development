@@ -1,0 +1,245 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.795
+You've reached the end of
+this module on UI frameworks,
+
+2
+00:00:03.795 --> 00:00:05.550
+is now time to review what
+
+3
+00:00:05.550 --> 00:00:07.575
+you've learned during
+these lessons.
+
+4
+00:00:07.575 --> 00:00:09.600
+Over the course of this module,
+
+5
+00:00:09.600 --> 00:00:11.220
+you've explored the concepts of
+
+6
+00:00:11.220 --> 00:00:13.380
+UI frameworks and libraries,
+
+7
+00:00:13.380 --> 00:00:15.735
+and covered an
+introduction to React.
+
+8
+00:00:15.735 --> 00:00:17.670
+Let's recap the key points you
+
+9
+00:00:17.670 --> 00:00:19.755
+learned and the
+skills you gained.
+
+10
+00:00:19.755 --> 00:00:21.450
+You began the module with
+
+11
+00:00:21.450 --> 00:00:23.534
+an introduction
+to UI frameworks.
+
+12
+00:00:23.534 --> 00:00:26.215
+Following the completion
+of this first lesson,
+
+13
+00:00:26.215 --> 00:00:27.965
+you should now be able to
+
+14
+00:00:27.965 --> 00:00:31.145
+utilize CSS and
+JavaScript libraries,
+
+15
+00:00:31.145 --> 00:00:34.445
+demonstrate a high level
+understanding of dependencies,
+
+16
+00:00:34.445 --> 00:00:37.445
+package managers, and
+JavaScript bundlers,
+
+17
+00:00:37.445 --> 00:00:39.830
+and explain the
+key techniques and
+
+18
+00:00:39.830 --> 00:00:41.990
+concepts of responsive
+web design,
+
+19
+00:00:41.990 --> 00:00:45.565
+such as screen resolutions
+and fixed and fluid grids.
+
+20
+00:00:45.565 --> 00:00:48.200
+You should also be
+able to develop
+
+21
+00:00:48.200 --> 00:00:52.630
+a simple Bootstrap website
+with the use of HTML and CSS.
+
+22
+00:00:52.630 --> 00:00:55.220
+Utilize Bootstrap CSS library,
+
+23
+00:00:55.220 --> 00:00:57.470
+including deploying
+class in fixes for
+
+24
+00:00:57.470 --> 00:01:00.890
+responsive breakpoints and
+class modifiers to change
+
+25
+00:01:00.890 --> 00:01:03.980
+your CSS code and demonstrate
+an understanding of
+
+26
+00:01:03.980 --> 00:01:06.020
+Bootstrap's grid
+system by building
+
+27
+00:01:06.020 --> 00:01:08.510
+a web page using
+the Bootstrap grid.
+
+28
+00:01:08.510 --> 00:01:10.070
+Following your exploration of
+
+29
+00:01:10.070 --> 00:01:12.110
+UI frameworks and libraries,
+
+30
+00:01:12.110 --> 00:01:14.570
+you then covered an
+introduction to React and
+
+31
+00:01:14.570 --> 00:01:18.095
+the JavaScript library for
+building user interfaces.
+
+32
+00:01:18.095 --> 00:01:20.840
+Now that you've completed
+an introduction to react,
+
+33
+00:01:20.840 --> 00:01:23.209
+you should be able
+to differentiate
+
+34
+00:01:23.209 --> 00:01:25.910
+between static and
+dynamic web page content.
+
+35
+00:01:25.910 --> 00:01:27.800
+List examples of how each type
+
+36
+00:01:27.800 --> 00:01:29.750
+works in the context
+of web servers.
+
+37
+00:01:29.750 --> 00:01:32.210
+Explain what a single-page
+application is,
+
+38
+00:01:32.210 --> 00:01:33.710
+how it works, and how it
+
+39
+00:01:33.710 --> 00:01:36.125
+differs from traditional
+web applications.
+
+40
+00:01:36.125 --> 00:01:38.045
+You should also be able to
+
+41
+00:01:38.045 --> 00:01:41.345
+outline the purpose of React
+as a JavaScript library,
+
+42
+00:01:41.345 --> 00:01:44.390
+explain the concept of the
+React component model,
+
+43
+00:01:44.390 --> 00:01:47.090
+and identify examples
+of common components.
+
+44
+00:01:47.090 --> 00:01:49.460
+Demonstrate a high
+level understanding
+
+45
+00:01:49.460 --> 00:01:50.960
+of React components,
+
+46
+00:01:50.960 --> 00:01:53.510
+explain how React
+components operate as
+
+47
+00:01:53.510 --> 00:01:54.800
+a hierarchy in order to
+
+48
+00:01:54.800 --> 00:01:57.290
+generate a web page
+through the virtual DOM.
+
+49
+00:01:57.290 --> 00:01:59.120
+You're now familiar
+with the basics
+
+50
+00:01:59.120 --> 00:02:01.025
+of UI frameworks and libraries,
+
+51
+00:02:01.025 --> 00:02:03.650
+and the basics of React
+and React Native.
+
+52
+00:02:03.650 --> 00:02:07.080
+Excellent. You've
+made great progress.

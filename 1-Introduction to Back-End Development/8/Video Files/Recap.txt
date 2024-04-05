@@ -1,0 +1,37 @@
+You've reached the end of
+this module on UI frameworks, is now time to review what you've learned during
+these lessons. Over the course of this module, you've explored the concepts of UI frameworks and libraries, and covered an
+introduction to React. Let's recap the key points you learned and the
+skills you gained. You began the module with an introduction
+to UI frameworks. Following the completion
+of this first lesson, you should now be able to utilize CSS and
+JavaScript libraries, demonstrate a high level
+understanding of dependencies, package managers, and
+JavaScript bundlers, and explain the
+key techniques and concepts of responsive
+web design, such as screen resolutions
+and fixed and fluid grids. You should also be
+able to develop a simple Bootstrap website
+with the use of HTML and CSS. Utilize Bootstrap CSS library, including deploying
+class in fixes for responsive breakpoints and
+class modifiers to change your CSS code and demonstrate
+an understanding of Bootstrap's grid
+system by building a web page using
+the Bootstrap grid. Following your exploration of UI frameworks and libraries, you then covered an
+introduction to React and the JavaScript library for
+building user interfaces. Now that you've completed
+an introduction to react, you should be able
+to differentiate between static and
+dynamic web page content. List examples of how each type works in the context
+of web servers. Explain what a single-page
+application is, how it works, and how it differs from traditional
+web applications. You should also be able to outline the purpose of React
+as a JavaScript library, explain the concept of the
+React component model, and identify examples
+of common components. Demonstrate a high
+level understanding of React components, explain how React
+components operate as a hierarchy in order to generate a web page
+through the virtual DOM. You're now familiar
+with the basics of UI frameworks and libraries, and the basics of React
+and React Native. Excellent. You've
+made great progress.
