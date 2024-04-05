@@ -1,4 +1,4 @@
-# About the Ungraded Lab: Improve your Bio page with Bootstrap
+# Improve your Bio page with Bootstrap
 
 In this Ungraded Lab, you will update your biographical page from Week 2 - Introduction to HTML5 and CSS to use Bootstrap.
 
