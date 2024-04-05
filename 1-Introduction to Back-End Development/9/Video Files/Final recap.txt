@@ -1,0 +1,51 @@
+In this course, you
+were introduced to the foundations
+of web development. Let's do a brief recap
+of what you covered. Module 1 was get started
+with web development. In this first module, you learned about the
+different types of web developers and the roles and responsibilities
+of front-end, back-end, and
+full-stack developers. You gained knowledge about the
+core technologies of HTML, CSS, and JavaScript, and explored the concept of
+how the Internet works. The module also
+featured an example to show what a day in the life
+of a web developer is like. Next, you learned more about
+webpages, web servers, and web browsers,
+and how they all work together to create
+what we call the Internet. You covered what happens when you send a request to look for something online and how that information
+gets back to you. Then you were introduced to core Internet technologies
+and how they interact. You explore some web
+browser tools that you can use to help you
+code more efficiently. Finally, you learned
+what an IDE is and how it can help you speed
+up your work to write code. An introduction to HTML
+and CSS followed Module 2. In Module 2, you learned
+about HTML and CSS. In HTML, you discovered how
+to create an HTML document, use simple HTML tags and linked documents
+to create a website. Then you learned about the
+Document Object Model or DOM, and how it's used to display the content that you
+see on your device. In addition, you covered techniques to improve
+web accessibility and some assistive
+technologies available to provide universal
+access to the Internet. Next, you learned how to
+use CSS to style webpages. You explored how to
+select and style elements and use text, color, and alignment to make
+the web pages you create look great and offer
+a great user experience. You then use your new
+HTML and CSS skills together to create a webpage. In Module 3, you learned how to use the Bootstrap
+framework to build responsive interfaces
+and got to know the benefits of working
+with UI Frameworks. First, you were introduced
+to the concept of responsive design and
+working with libraries. Then you learned how
+to get started with the Bootstrap library
+and how to use Bootstrap styles
+and you explored some alternative UI
+frameworks and libraries. Finally, you were introduced to the JavaScript library react. You learned why
+it was created by meta-engineers and how it
+works at a high level. You then briefly explored the virtual DOM
+component hierarchy and some alternatives to react. Well done on completing
+this course recap. Now it's time to
+put into practice all that you've learned
+in the graded assessment. Are you ready to edit your
+biographical webpage? Good luck.

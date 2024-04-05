@@ -1,0 +1,323 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.190
+In this course, you
+were introduced
+
+2
+00:00:02.190 --> 00:00:04.200
+to the foundations
+of web development.
+
+3
+00:00:04.200 --> 00:00:06.945
+Let's do a brief recap
+of what you covered.
+
+4
+00:00:06.945 --> 00:00:10.350
+Module 1 was get started
+with web development.
+
+5
+00:00:10.350 --> 00:00:11.865
+In this first module,
+
+6
+00:00:11.865 --> 00:00:13.470
+you learned about the
+different types of
+
+7
+00:00:13.470 --> 00:00:15.060
+web developers and the roles
+
+8
+00:00:15.060 --> 00:00:16.800
+and responsibilities
+of front-end,
+
+9
+00:00:16.800 --> 00:00:18.945
+back-end, and
+full-stack developers.
+
+10
+00:00:18.945 --> 00:00:22.275
+You gained knowledge about the
+core technologies of HTML,
+
+11
+00:00:22.275 --> 00:00:24.720
+CSS, and JavaScript, and
+
+12
+00:00:24.720 --> 00:00:27.345
+explored the concept of
+how the Internet works.
+
+13
+00:00:27.345 --> 00:00:29.960
+The module also
+featured an example to
+
+14
+00:00:29.960 --> 00:00:32.705
+show what a day in the life
+of a web developer is like.
+
+15
+00:00:32.705 --> 00:00:36.290
+Next, you learned more about
+webpages, web servers,
+
+16
+00:00:36.290 --> 00:00:38.420
+and web browsers,
+and how they all
+
+17
+00:00:38.420 --> 00:00:41.150
+work together to create
+what we call the Internet.
+
+18
+00:00:41.150 --> 00:00:42.890
+You covered what happens when
+
+19
+00:00:42.890 --> 00:00:44.330
+you send a request to look for
+
+20
+00:00:44.330 --> 00:00:45.770
+something online and how
+
+21
+00:00:45.770 --> 00:00:47.690
+that information
+gets back to you.
+
+22
+00:00:47.690 --> 00:00:49.580
+Then you were introduced to
+
+23
+00:00:49.580 --> 00:00:52.565
+core Internet technologies
+and how they interact.
+
+24
+00:00:52.565 --> 00:00:54.980
+You explore some web
+browser tools that you
+
+25
+00:00:54.980 --> 00:00:57.520
+can use to help you
+code more efficiently.
+
+26
+00:00:57.520 --> 00:01:00.710
+Finally, you learned
+what an IDE is
+
+27
+00:01:00.710 --> 00:01:04.285
+and how it can help you speed
+up your work to write code.
+
+28
+00:01:04.285 --> 00:01:08.545
+An introduction to HTML
+and CSS followed Module 2.
+
+29
+00:01:08.545 --> 00:01:12.410
+In Module 2, you learned
+about HTML and CSS.
+
+30
+00:01:12.410 --> 00:01:16.505
+In HTML, you discovered how
+to create an HTML document,
+
+31
+00:01:16.505 --> 00:01:18.500
+use simple HTML tags
+
+32
+00:01:18.500 --> 00:01:21.050
+and linked documents
+to create a website.
+
+33
+00:01:21.050 --> 00:01:25.010
+Then you learned about the
+Document Object Model or DOM,
+
+34
+00:01:25.010 --> 00:01:26.450
+and how it's used to display
+
+35
+00:01:26.450 --> 00:01:28.715
+the content that you
+see on your device.
+
+36
+00:01:28.715 --> 00:01:30.830
+In addition, you covered
+
+37
+00:01:30.830 --> 00:01:33.110
+techniques to improve
+web accessibility
+
+38
+00:01:33.110 --> 00:01:35.060
+and some assistive
+technologies available to
+
+39
+00:01:35.060 --> 00:01:37.510
+provide universal
+access to the Internet.
+
+40
+00:01:37.510 --> 00:01:41.765
+Next, you learned how to
+use CSS to style webpages.
+
+41
+00:01:41.765 --> 00:01:43.910
+You explored how to
+select and style
+
+42
+00:01:43.910 --> 00:01:45.980
+elements and use text, color,
+
+43
+00:01:45.980 --> 00:01:48.260
+and alignment to make
+the web pages you
+
+44
+00:01:48.260 --> 00:01:51.815
+create look great and offer
+a great user experience.
+
+45
+00:01:51.815 --> 00:01:55.160
+You then use your new
+HTML and CSS skills
+
+46
+00:01:55.160 --> 00:01:57.445
+together to create a webpage.
+
+47
+00:01:57.445 --> 00:02:00.080
+In Module 3, you learned how
+
+48
+00:02:00.080 --> 00:02:02.120
+to use the Bootstrap
+framework to build
+
+49
+00:02:02.120 --> 00:02:04.220
+responsive interfaces
+and got to know
+
+50
+00:02:04.220 --> 00:02:07.145
+the benefits of working
+with UI Frameworks.
+
+51
+00:02:07.145 --> 00:02:09.830
+First, you were introduced
+to the concept of
+
+52
+00:02:09.830 --> 00:02:12.725
+responsive design and
+working with libraries.
+
+53
+00:02:12.725 --> 00:02:15.080
+Then you learned how
+to get started with
+
+54
+00:02:15.080 --> 00:02:17.150
+the Bootstrap library
+and how to use
+
+55
+00:02:17.150 --> 00:02:19.250
+Bootstrap styles
+and you explored
+
+56
+00:02:19.250 --> 00:02:21.895
+some alternative UI
+frameworks and libraries.
+
+57
+00:02:21.895 --> 00:02:23.930
+Finally, you were introduced to
+
+58
+00:02:23.930 --> 00:02:25.940
+the JavaScript library react.
+
+59
+00:02:25.940 --> 00:02:27.680
+You learned why
+it was created by
+
+60
+00:02:27.680 --> 00:02:30.365
+meta-engineers and how it
+works at a high level.
+
+61
+00:02:30.365 --> 00:02:31.820
+You then briefly explored
+
+62
+00:02:31.820 --> 00:02:34.415
+the virtual DOM
+component hierarchy
+
+63
+00:02:34.415 --> 00:02:36.850
+and some alternatives to react.
+
+64
+00:02:36.850 --> 00:02:39.735
+Well done on completing
+this course recap.
+
+65
+00:02:39.735 --> 00:02:41.735
+Now it's time to
+put into practice
+
+66
+00:02:41.735 --> 00:02:44.075
+all that you've learned
+in the graded assessment.
+
+67
+00:02:44.075 --> 00:02:47.255
+Are you ready to edit your
+biographical webpage?
+
+68
+00:02:47.255 --> 00:02:49.230
+Good luck.
